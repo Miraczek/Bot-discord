@@ -1,2 +1,9 @@
-node_modules
-.config
+# Packages
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Miscellaneous
+.vscode/
